@@ -36,12 +36,12 @@ Trend Detection: Year-over-year trends and type breakdowns help detect rising ri
 Power BI Desktop (DAX, Power Query) 
 Source data: CSV / SQL (preprocessed)
 
-#### Files in this project
-Power BI file (recommended to open in Power BI Desktop): Dashboard/Traffic-Accidents-Dashboard.pbix (if included)
+## Files in this project
+Power BI file (open in Power BI Desktop): Dashboard/Traffic_Accidents_Dashboard.pbix (if included)
 
 ## Screenshots:
-First_Page:(https://github.com/Samirpatra2050/Traffic-Accidents-Dashboard/blob/main/Traffic_Accidents_Dashboard-1.png)
-Second_Page:(https://github.com/Samirpatra2050/Traffic-Accidents-Dashboard/blob/main/Traffic_Accidents_Dash-2.png)
+First_Page: https://github.com/Samirpatra2050/Traffic-Accidents-Dashboard/blob/main/Traffic_Accidents_Dashboard-1.png
+Second_Page: https://github.com/Samirpatra2050/Traffic-Accidents-Dashboard/blob/main/Traffic_Accidents_Dash-2.png
 
 ## Contact
 👤 Samir Patra 
